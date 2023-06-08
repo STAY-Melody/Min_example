@@ -2,8 +2,8 @@
 
 Essential dependencies:
 
-gymanasium
+gymnasium
 
-gymanasium_robotics
+gymnasium_robotics
 
 mujoco
